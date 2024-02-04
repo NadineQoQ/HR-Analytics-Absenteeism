@@ -1,0 +1,741 @@
+ID,Reason,Month_name,"Body mass index",BMI_Category,Season_Name,Seasons,"Month of absence","Day of the week","Transportation expense",Education,Son,Drinking_status,Smoking_status,Pet,Disciplinary_status,Age,"Work load Average/day","Absenteeism time in hours"
+1,"unjustified absence ",July,30,Obese,Summer,1,7,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"239,554",4
+2,Unkown,July,31,Obese,Summer,1,7,3,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"239,554",0
+3,"medical consultation ",July,31,Obese,Summer,1,7,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",2
+4,"Diseases of the eye and adnexa",July,24,"Normal Weight",Summer,1,7,5,279,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,39,"239,554",4
+5,"medical consultation ",July,30,Obese,Summer,1,7,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"239,554",2
+6,"medical consultation ",July,31,Obese,Summer,1,7,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",2
+7,"patient follow-up ",July,27,Overweight,Summer,1,7,6,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"239,554",8
+8,"medical consultation ",July,23,"Normal Weight",Summer,1,7,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,554",4
+9,"Injury, poisoning and certain other consequences of external causes",July,25,Overweight,Summer,1,7,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"239,554",40
+10,"patient follow-up ",July,29,Overweight,Summer,1,7,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"239,554",8
+11,"Certain infectious and parasitic diseases",July,23,"Normal Weight",Summer,1,7,2,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,554",8
+12,"Certain infectious and parasitic diseases",July,23,"Normal Weight",Summer,1,7,3,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,554",8
+13,"Diseases of the digestive system",July,23,"Normal Weight",Summer,1,7,4,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,554",8
+14,"Diseases of the digestive system",July,31,Obese,Summer,1,7,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",1
+15,"medical consultation ",July,31,Obese,Summer,1,7,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",4
+16,"Diseases of the genitourinary system",July,23,"Normal Weight",Summer,1,7,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"239,554",8
+17,"medical consultation ",July,31,Obese,Summer,1,7,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",2
+18,"Factors influencing health status and contact with health services.",July,31,Obese,Summer,1,7,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,554",8
+19,"Diseases of the digestive system",July,25,Overweight,Summer,1,7,5,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"239,554",8
+20,"medical consultation ",August,32,Obese,Summer,1,8,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"205,917",2
+21,"Diseases of the respiratory system",August,25,Overweight,Summer,1,8,4,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"205,917",8
+22,"Diseases of the digestive system",August,31,Obese,Summer,1,8,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"205,917",1
+23,"Diseases of the musculoskeletal system and connective tissue",August,27,Overweight,Summer,1,8,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"205,917",40
+24,"dental consultation ",August,23,"Normal Weight",Summer,1,8,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"205,917",4
+25,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,30,Obese,Summer,1,8,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"205,917",8
+26,"laboratory examination ",August,27,Overweight,Summer,1,8,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"205,917",7
+27,"medical consultation ",August,30,Obese,Summer,1,8,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"205,917",1
+28,"dental consultation ",August,22,"Normal Weight",Summer,1,8,4,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"205,917",4
+29,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,30,Obese,Summer,1,8,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"205,917",8
+30,"medical consultation ",August,31,Obese,Summer,1,8,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"205,917",2
+31,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,31,Obese,Summer,1,8,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"205,917",8
+32,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,33,Obese,Summer,1,8,5,235,1,1,Non_Drinker,Smoker,5,No_Disciplinary_Failure,48,"205,917",8
+33,"medical consultation ",August,29,Overweight,Summer,1,8,5,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"205,917",4
+34,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,33,Obese,Summer,1,8,2,235,1,1,Non_Drinker,Smoker,5,No_Disciplinary_Failure,48,"205,917",8
+35,"medical consultation ",August,31,Obese,Summer,1,8,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"205,917",2
+36,"medical consultation ",August,27,Overweight,Summer,1,8,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"205,917",1
+37,"blood donation",August,30,Obese,Summer,1,8,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"205,917",8
+38,"Diseases of the digestive system",August,23,"Normal Weight",Summer,1,8,5,291,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"205,917",4
+39,"dental consultation ",August,33,Obese,Summer,1,8,6,235,1,1,Non_Drinker,Smoker,5,No_Disciplinary_Failure,48,"205,917",8
+40,"medical consultation ",August,23,"Normal Weight",Summer,1,8,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"205,917",4
+41,"medical consultation ",September,21,"Normal Weight",Fall,1,9,3,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"241,476",2
+42,"medical consultation ",September,28,Overweight,Fall,1,9,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"241,476",4
+43,"medical consultation ",September,31,Obese,Fall,1,9,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"241,476",4
+44,"Injury, poisoning and certain other consequences of external causes",September,38,Obese,Fall,1,9,3,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"241,476",8
+45,"medical consultation ",September,25,Overweight,Fall,1,9,4,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"241,476",2
+46,"medical consultation ",September,28,Overweight,Fall,1,9,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"241,476",3
+47,"medical consultation ",September,31,Obese,Fall,1,9,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"241,476",3
+48,"medical consultation ",September,25,Overweight,Fall,1,9,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"241,476",4
+49,"patient follow-up ",September,23,"Normal Weight",Fall,1,9,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"241,476",8
+50,"Diseases of the genitourinary system",September,25,Overweight,Fall,4,9,2,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"241,476",32
+51,Unkown,September,23,"Normal Weight",Fall,4,9,2,260,1,4,Drinker,Non_Smoker,0,Disciplinary_Failure,36,"241,476",0
+52,Unkown,September,24,"Normal Weight",Fall,4,9,2,225,1,1,Non_Drinker,Non_Smoker,2,Disciplinary_Failure,28,"241,476",0
+53,"medical consultation ",September,24,"Normal Weight",Fall,4,9,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"241,476",2
+54,"medical consultation ",September,28,Overweight,Fall,4,9,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"241,476",2
+55,Unkown,September,30,Obese,Fall,4,9,3,289,1,2,Drinker,Non_Smoker,1,Disciplinary_Failure,33,"241,476",0
+56,Unkown,September,31,Obese,Fall,4,9,3,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"241,476",0
+57,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",September,24,"Normal Weight",Fall,4,9,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"241,476",3
+58,"medical consultation ",September,31,Obese,Fall,4,9,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"241,476",3
+59,Unkown,September,25,Overweight,Fall,4,9,4,369,1,3,Drinker,Non_Smoker,0,Disciplinary_Failure,31,"241,476",0
+60,"medical consultation ",September,32,Obese,Fall,4,9,6,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"241,476",1
+61,"medical consultation ",September,31,Obese,Fall,4,9,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"241,476",3
+62,"medical consultation ",September,23,"Normal Weight",Fall,4,9,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"241,476",4
+63,"medical consultation ",October,31,Obese,Fall,4,10,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,465",3
+64,"medical consultation ",October,28,Overweight,Fall,4,10,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"253,465",3
+65,Unkown,October,31,Obese,Fall,4,10,4,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"253,465",0
+66,"medical consultation ",October,19,"Normal Weight",Fall,4,10,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"253,465",1
+67,"medical consultation ",October,31,Obese,Fall,4,10,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,465",3
+68,"medical consultation ",October,24,"Normal Weight",Fall,4,10,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,465",3
+69,"medical consultation ",October,28,Overweight,Fall,4,10,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"253,465",3
+70,"medical consultation ",October,24,"Normal Weight",Fall,4,10,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,465",2
+71,"medical consultation ",October,32,Obese,Fall,4,10,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"253,465",2
+72,"medical consultation ",October,25,Overweight,Fall,4,10,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"253,465",5
+73,"medical consultation ",October,31,Obese,Fall,4,10,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,465",8
+74,"medical consultation ",October,24,"Normal Weight",Fall,4,10,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,465",3
+75,"Injury, poisoning and certain other consequences of external causes",October,23,"Normal Weight",Fall,4,10,5,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"253,465",16
+76,"Diseases of the genitourinary system",October,25,Overweight,Fall,4,10,3,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"253,465",8
+77,"dental consultation ",October,24,"Normal Weight",Fall,4,10,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,465",2
+78,"unjustified absence ",October,30,Obese,Fall,4,10,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"253,465",8
+79,"medical consultation ",October,27,Overweight,Fall,4,10,6,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"253,465",1
+80,"dental consultation ",October,23,"Normal Weight",Fall,4,10,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"253,465",3
+81,"medical consultation ",November,31,Obese,Fall,4,11,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"306,345",1
+82,"medical consultation ",November,24,"Normal Weight",Fall,4,11,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"306,345",1
+83,"Diseases of the musculoskeletal system and connective tissue",November,31,Obese,Fall,4,11,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"306,345",8
+84,"Factors influencing health status and contact with health services.",November,22,"Normal Weight",Fall,4,11,5,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"306,345",8
+85,"medical consultation ",November,25,Overweight,Fall,4,11,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"306,345",5
+86,"Diseases of the respiratory system",November,25,Overweight,Fall,4,11,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"306,345",32
+87,"patient follow-up ",November,25,Overweight,Fall,4,11,2,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"306,345",8
+88,"Diseases of the genitourinary system",November,25,Overweight,Fall,4,11,2,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"306,345",40
+89,"medical consultation ",November,24,"Normal Weight",Fall,4,11,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"306,345",1
+90,"Diseases of the nervous system",November,25,Overweight,Fall,4,11,6,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"306,345",8
+91,"medical consultation ",November,24,"Normal Weight",Fall,4,11,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"306,345",3
+92,"Factors influencing health status and contact with health services.",November,22,"Normal Weight",Fall,4,11,4,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"306,345",8
+93,"Diseases of the musculoskeletal system and connective tissue",November,24,"Normal Weight",Fall,4,11,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"306,345",3
+94,"dental consultation ",November,23,"Normal Weight",Fall,4,11,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"306,345",4
+95,"dental consultation ",November,32,Obese,Fall,4,11,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"306,345",1
+96,"dental consultation ",November,24,"Normal Weight",Fall,4,11,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"306,345",3
+97,"Diseases of the eye and adnexa",November,30,Obese,Fall,4,11,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"306,345",24
+98,"medical consultation ",November,25,Overweight,Fall,4,11,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"306,345",3
+99,"medical consultation ",December,32,Obese,Winter,4,12,3,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"261,306",1
+100,"Injury, poisoning and certain other consequences of external causes",December,28,Overweight,Winter,4,12,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"261,306",64
+101,"medical consultation ",December,31,Obese,Winter,4,12,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"261,306",2
+102,"unjustified absence ",December,29,Overweight,Winter,4,12,4,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"261,306",8
+103,"medical consultation ",December,24,"Normal Weight",Winter,4,12,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"261,306",2
+104,"unjustified absence ",December,23,"Normal Weight",Winter,4,12,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"261,306",8
+105,"Injury, poisoning and certain other consequences of external causes",December,28,Overweight,Winter,4,12,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"261,306",56
+106,"patient follow-up ",December,27,Overweight,Winter,4,12,4,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"261,306",8
+107,"dental consultation ",December,24,"Normal Weight",Winter,4,12,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"261,306",3
+108,"dental consultation ",December,23,"Normal Weight",Winter,4,12,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"261,306",3
+109,"medical consultation ",December,24,"Normal Weight",Winter,4,12,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"261,306",2
+110,"patient follow-up ",December,27,Overweight,Winter,4,12,4,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"261,306",8
+111,"physiotherapy ",December,28,Overweight,Winter,4,12,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"261,306",2
+112,"Injury, poisoning and certain other consequences of external causes",December,23,"Normal Weight",Winter,2,12,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"261,306",8
+113,"medical consultation ",December,24,"Normal Weight",Winter,2,12,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"261,306",2
+114,"medical consultation ",January,24,"Normal Weight",Winter,2,1,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",1
+115,"Injury, poisoning and certain other consequences of external causes",January,28,Overweight,Winter,2,1,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",1
+116,"physiotherapy ",January,28,Overweight,Winter,2,1,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",1
+117,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",January,25,Overweight,Winter,2,1,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"308,593",8
+118,"physiotherapy ",January,24,"Normal Weight",Winter,2,1,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",2
+119,"medical consultation ",January,21,"Normal Weight",Winter,2,1,5,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"308,593",2
+120,"dental consultation ",January,24,"Normal Weight",Winter,2,1,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",2
+121,"physiotherapy ",January,24,"Normal Weight",Winter,2,1,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",1
+122,"physiotherapy ",January,28,Overweight,Winter,2,1,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+123,"physiotherapy ",January,24,"Normal Weight",Winter,2,1,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",2
+124,"physiotherapy ",January,28,Overweight,Winter,2,1,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+125,"physiotherapy ",January,28,Overweight,Winter,2,1,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+126,"physiotherapy ",January,28,Overweight,Winter,2,1,5,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+127,"physiotherapy ",January,28,Overweight,Winter,2,1,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+128,"physiotherapy ",January,28,Overweight,Winter,2,1,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+129,"physiotherapy ",January,28,Overweight,Winter,2,1,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+130,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",January,19,"Normal Weight",Winter,2,1,3,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"308,593",8
+131,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",January,30,Obese,Winter,2,1,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"308,593",8
+132,"physiotherapy ",January,28,Overweight,Winter,2,1,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+133,"medical consultation ",January,21,"Normal Weight",Winter,2,1,5,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"308,593",2
+134,"physiotherapy ",January,28,Overweight,Winter,2,1,5,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",2
+135,"physiotherapy ",January,28,Overweight,Winter,2,1,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"308,593",0
+136,"medical consultation ",January,24,"Normal Weight",Winter,2,1,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"308,593",1
+137,"patient follow-up ",January,30,Obese,Winter,2,1,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"308,593",3
+138,"medical consultation ",February,21,"Normal Weight",Winter,2,2,6,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"302,585",1
+139,"Certain infectious and parasitic diseases",February,23,"Normal Weight",Winter,2,2,4,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"302,585",8
+140,"Diseases of the digestive system",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"302,585",8
+141,"dental consultation ",February,25,Overweight,Winter,2,2,5,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"302,585",2
+142,"medical consultation ",February,25,Overweight,Winter,2,2,5,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"302,585",8
+143,"dental consultation ",February,23,"Normal Weight",Winter,2,2,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"302,585",2
+144,"patient follow-up ",February,30,Obese,Winter,2,2,6,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"302,585",8
+145,"Diseases of the digestive system",February,24,"Normal Weight",Winter,2,2,2,388,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"302,585",8
+146,"Certain infectious and parasitic diseases",February,24,"Normal Weight",Winter,2,2,3,388,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"302,585",8
+147,"dental consultation ",February,24,"Normal Weight",Winter,2,2,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"302,585",2
+148,"medical consultation ",February,24,"Normal Weight",Winter,2,2,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"302,585",2
+149,"medical consultation ",February,19,"Normal Weight",Winter,2,2,3,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"302,585",1
+150,"medical consultation ",February,21,"Normal Weight",Winter,2,2,3,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"302,585",8
+151,"laboratory examination ",February,24,"Normal Weight",Winter,2,2,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"302,585",3
+152,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",February,25,Overweight,Winter,2,2,2,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"302,585",8
+153,"medical consultation ",February,25,Overweight,Winter,2,2,3,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"302,585",1
+154,"medical consultation ",February,24,"Normal Weight",Winter,2,2,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"302,585",1
+155,"Injury, poisoning and certain other consequences of external causes",February,25,Overweight,Winter,2,2,5,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"302,585",8
+156,"dental consultation ",March,23,"Normal Weight",Spring,2,3,3,291,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"343,253",2
+157,"Injury, poisoning and certain other consequences of external causes",March,23,"Normal Weight",Spring,2,3,3,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"343,253",8
+158,"Injury, poisoning and certain other consequences of external causes",March,22,"Normal Weight",Spring,2,3,3,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"343,253",3
+159,"Congenital malformations, deformations and chromosomal abnormalities",March,22,"Normal Weight",Spring,2,3,3,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"343,253",8
+160,"patient follow-up ",March,25,Overweight,Spring,2,3,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"343,253",8
+161,"Diseases of the musculoskeletal system and connective tissue",March,23,"Normal Weight",Spring,2,3,4,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"343,253",8
+162,"Diseases of the musculoskeletal system and connective tissue",March,19,"Normal Weight",Spring,2,3,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"343,253",8
+163,"Diseases of the genitourinary system",March,32,Obese,Spring,2,3,6,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"343,253",3
+164,"Diseases of the musculoskeletal system and connective tissue",March,23,"Normal Weight",Spring,2,3,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"343,253",40
+165,"Diseases of the digestive system",March,22,"Normal Weight",Spring,2,3,2,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"343,253",40
+166,"Certain infectious and parasitic diseases",March,25,Overweight,Spring,2,3,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"343,253",16
+167,"unjustified absence ",March,23,"Normal Weight",Spring,2,3,2,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"343,253",16
+168,"Diseases of the musculoskeletal system and connective tissue",March,25,Overweight,Spring,2,3,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"343,253",8
+169,"Diseases of the nervous system",March,30,Obese,Spring,2,3,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"343,253",8
+170,"Diseases of the ear and mastoid process",March,22,"Normal Weight",Spring,2,3,5,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"343,253",8
+171,"dental consultation ",March,23,"Normal Weight",Spring,2,3,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"343,253",4
+172,"medical consultation ",March,24,"Normal Weight",Spring,2,3,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",1
+173,"Diseases of the genitourinary system",March,24,"Normal Weight",Spring,2,3,2,279,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,39,"343,253",8
+174,"Diseases of the musculoskeletal system and connective tissue",March,31,Obese,Spring,2,3,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"343,253",24
+175,"medical consultation ",March,24,"Normal Weight",Spring,2,3,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",2
+176,"Diseases of the digestive system",March,24,"Normal Weight",Spring,3,3,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",8
+177,"Diseases of the musculoskeletal system and connective tissue",March,19,"Normal Weight",Spring,3,3,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"343,253",1
+178,"Diseases of the digestive system",March,24,"Normal Weight",Spring,3,3,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",8
+179,"Diseases of the digestive system",March,24,"Normal Weight",Spring,3,3,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",16
+180,"Diseases of the musculoskeletal system and connective tissue",March,31,Obese,Spring,3,3,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"343,253",3
+181,"Diseases of the genitourinary system",March,24,"Normal Weight",Spring,3,3,5,279,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,39,"343,253",16
+182,"dental consultation ",March,24,"Normal Weight",Spring,3,3,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",2
+183,"Diseases of the genitourinary system",March,32,Obese,Spring,3,3,6,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"343,253",3
+184,"dental consultation ",March,24,"Normal Weight",Spring,3,3,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"343,253",1
+185,"dental consultation ",April,25,Overweight,Spring,3,4,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"326,452",1
+186,"medical consultation ",April,24,"Normal Weight",Spring,3,4,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"326,452",1
+187,"dental consultation ",April,25,Overweight,Spring,3,4,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"326,452",1
+188,"Diseases of the musculoskeletal system and connective tissue",April,23,"Normal Weight",Spring,3,4,4,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"326,452",24
+189,"medical consultation ",April,25,Overweight,Spring,3,4,5,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"326,452",1
+190,"dental consultation ",April,24,"Normal Weight",Spring,3,4,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"326,452",2
+191,"dental consultation ",April,23,"Normal Weight",Spring,3,4,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"326,452",4
+192,"Diseases of the musculoskeletal system and connective tissue",April,31,Obese,Spring,3,4,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"326,452",24
+193,"medical consultation ",April,31,Obese,Spring,3,4,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"326,452",1
+194,"medical consultation ",April,25,Overweight,Spring,3,4,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"326,452",3
+195,"Diseases of the genitourinary system",April,23,"Normal Weight",Spring,3,4,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"326,452",8
+196,"dental consultation ",April,25,Overweight,Spring,3,4,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"326,452",1
+197,"dental consultation ",April,32,Obese,Spring,3,4,6,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"326,452",8
+198,"Injury, poisoning and certain other consequences of external causes",April,23,"Normal Weight",Spring,3,4,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"326,452",56
+199,"Injury, poisoning and certain other consequences of external causes",April,30,Obese,Spring,3,4,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"326,452",8
+200,"Diseases of the skin and subcutaneous tissue",April,25,Overweight,Spring,3,4,4,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"326,452",24
+201,"Injury, poisoning and certain other consequences of external causes",April,21,"Normal Weight",Spring,3,4,4,378,1,2,Non_Drinker,Smoker,4,No_Disciplinary_Failure,36,"326,452",8
+202,"Diseases of the musculoskeletal system and connective tissue",April,30,Obese,Spring,3,4,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"326,452",16
+203,"Diseases of the eye and adnexa",April,29,Overweight,Spring,3,4,6,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"326,452",3
+204,Unkown,April,33,Obese,Spring,3,4,2,235,1,1,Non_Drinker,Smoker,5,Disciplinary_Failure,48,"326,452",0
+205,"Diseases of the musculoskeletal system and connective tissue",May,30,Obese,Spring,3,5,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"378,884",8
+206,"dental consultation ",May,25,Overweight,Spring,3,5,5,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"378,884",2
+207,"dental consultation ",May,25,Overweight,Spring,3,5,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"378,884",1
+208,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",May,31,Obese,Spring,3,5,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"378,884",8
+209,"Injury, poisoning and certain other consequences of external causes",May,24,"Normal Weight",Spring,3,5,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"378,884",8
+210,"Diseases of the eye and adnexa",May,21,"Normal Weight",Spring,3,5,4,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"378,884",4
+211,"dental consultation ",May,25,Overweight,Spring,3,5,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"378,884",2
+212,"Diseases of the skin and subcutaneous tissue",May,31,Obese,Spring,3,5,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"378,884",1
+213,"Diseases of the musculoskeletal system and connective tissue",May,30,Obese,Spring,3,5,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"378,884",24
+214,Unkown,May,24,"Normal Weight",Spring,3,5,4,279,1,2,Drinker,Smoker,0,Disciplinary_Failure,39,"378,884",0
+215,Unkown,May,25,Overweight,Spring,3,5,4,330,2,0,Non_Drinker,Non_Smoker,0,Disciplinary_Failure,28,"378,884",0
+216,Unkown,May,21,"Normal Weight",Spring,3,5,4,378,1,2,Non_Drinker,Smoker,4,Disciplinary_Failure,36,"378,884",0
+217,Unkown,May,24,"Normal Weight",Spring,3,5,4,388,1,0,Non_Drinker,Non_Smoker,0,Disciplinary_Failure,50,"378,884",0
+218,"Diseases of the digestive system",May,31,Obese,Spring,3,5,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"378,884",1
+219,"Diseases of the musculoskeletal system and connective tissue",May,31,Obese,Spring,3,5,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"378,884",24
+220,"patient follow-up ",May,27,Overweight,Spring,3,5,6,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"378,884",8
+221,"Injury, poisoning and certain other consequences of external causes",June,23,"Normal Weight",Summer,3,6,2,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"377,550",8
+222,"patient follow-up ",June,27,Overweight,Summer,3,6,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"377,550",8
+223,"Diseases of the respiratory system",June,23,"Normal Weight",Summer,3,6,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"377,550",24
+224,"medical consultation ",June,25,Overweight,Summer,3,6,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"377,550",4
+225,"Diseases of the respiratory system",June,23,"Normal Weight",Summer,3,6,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"377,550",8
+226,"Diseases of the digestive system",June,31,Obese,Summer,3,6,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"377,550",8
+227,"medical consultation ",June,25,Overweight,Summer,3,6,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"377,550",4
+228,"Diseases of the respiratory system",June,23,"Normal Weight",Summer,3,6,2,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"377,550",8
+229,"Diseases of the musculoskeletal system and connective tissue",June,31,Obese,Summer,3,6,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"377,550",8
+230,"Diseases of the musculoskeletal system and connective tissue",June,29,Overweight,Summer,3,6,6,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"377,550",16
+231,"medical consultation ",June,31,Obese,Summer,3,6,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"377,550",1
+232,"Diseases of the musculoskeletal system and connective tissue",June,31,Obese,Summer,3,6,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"377,550",80
+233,"patient follow-up ",June,21,"Normal Weight",Summer,3,6,5,378,1,2,Non_Drinker,Smoker,4,No_Disciplinary_Failure,36,"377,550",8
+234,"Diseases of the digestive system",June,31,Obese,Summer,3,6,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"377,550",2
+235,"dental consultation ",June,36,Obese,Summer,1,6,2,289,1,0,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,49,"377,550",2
+236,"dental consultation ",June,24,"Normal Weight",Summer,1,6,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"377,550",2
+237,"Injury, poisoning and certain other consequences of external causes",July,25,Overweight,Summer,1,7,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"275,312",16
+238,"Certain infectious and parasitic diseases",July,31,Obese,Summer,1,7,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"275,312",8
+239,"Mental and behavioural disorders",July,28,Overweight,Summer,1,7,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,312",8
+240,"unjustified absence ",July,28,Overweight,Summer,1,7,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,312",4
+241,"unjustified absence ",July,25,Overweight,Summer,1,7,3,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"275,312",8
+242,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",July,19,"Normal Weight",Summer,1,7,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"275,312",8
+243,"laboratory examination ",July,25,Overweight,Summer,1,7,6,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"275,312",2
+244,"Certain infectious and parasitic diseases",July,25,Overweight,Summer,1,7,2,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"275,312",8
+245,"Certain infectious and parasitic diseases",July,25,Overweight,Summer,1,7,3,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"275,312",8
+246,"laboratory examination ",July,22,"Normal Weight",Summer,1,7,2,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"275,312",3
+247,"patient follow-up ",July,27,Overweight,Summer,1,7,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"275,312",8
+248,"unjustified absence ",July,30,Obese,Summer,1,7,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"275,312",8
+249,"unjustified absence ",July,31,Obese,Summer,1,7,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"275,312",8
+250,"Injury, poisoning and certain other consequences of external causes",July,30,Obese,Summer,1,7,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"275,312",32
+251,"Injury, poisoning and certain other consequences of external causes",July,30,Obese,Summer,1,7,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"275,312",8
+252,Unkown,July,23,"Normal Weight",Summer,1,7,5,260,1,4,Drinker,Non_Smoker,0,Disciplinary_Failure,36,"275,312",0
+253,"Injury, poisoning and certain other consequences of external causes",August,30,Obese,Summer,1,8,6,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,615",8
+254,"Injury, poisoning and certain other consequences of external causes",August,22,"Normal Weight",Summer,1,8,6,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"265,615",3
+255,"medical consultation ",August,30,Obese,Summer,1,8,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,615",1
+256,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",August,22,"Normal Weight",Summer,1,8,3,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"265,615",8
+257,"Diseases of the musculoskeletal system and connective tissue",August,25,Overweight,Summer,1,8,5,300,1,2,Drinker,Smoker,1,No_Disciplinary_Failure,43,"265,615",1
+258,"Diseases of the genitourinary system",August,25,Overweight,Summer,1,8,5,300,1,2,Drinker,Smoker,1,No_Disciplinary_Failure,43,"265,615",2
+259,"dental consultation ",August,23,"Normal Weight",Summer,1,8,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"265,615",4
+260,"medical consultation ",August,30,Obese,Summer,1,8,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,615",4
+261,"medical consultation ",August,32,Obese,Summer,1,8,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"265,615",1
+262,"Diseases of the digestive system",August,25,Overweight,Summer,1,8,5,268,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,33,"265,615",8
+263,"medical consultation ",August,19,"Normal Weight",Summer,1,8,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,615",1
+264,"Diseases of the musculoskeletal system and connective tissue",August,31,Obese,Summer,1,8,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"265,615",3
+265,"laboratory examination ",August,32,Obese,Summer,1,8,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"265,615",2
+266,"medical consultation ",August,29,Overweight,Summer,1,8,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"265,615",1
+267,"medical consultation ",August,31,Obese,Summer,1,8,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"265,615",1
+268,"Injury, poisoning and certain other consequences of external causes",August,29,Overweight,Summer,1,8,5,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"265,615",8
+269,"Diseases of the ear and mastoid process",August,27,Overweight,Summer,1,8,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"265,615",8
+270,"Diseases of the nervous system",August,21,"Normal Weight",Summer,1,8,4,184,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,27,"265,615",8
+271,"Diseases of the digestive system",September,31,Obese,Fall,1,9,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"294,217",8
+272,"medical consultation ",September,31,Obese,Fall,1,9,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"294,217",3
+273,"Injury, poisoning and certain other consequences of external causes",September,30,Obese,Fall,1,9,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"294,217",24
+274,Unkown,September,38,Obese,Fall,1,9,5,235,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,43,"294,217",0
+275,"Diseases of the circulatory system",September,23,"Normal Weight",Fall,1,9,2,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"294,217",16
+276,"dental consultation ",September,25,Overweight,Fall,1,9,3,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"294,217",3
+277,Unkown,September,35,Obese,Fall,1,9,3,231,1,2,Drinker,Non_Smoker,2,Disciplinary_Failure,39,"294,217",0
+278,Unkown,September,23,"Normal Weight",Fall,1,9,3,291,1,0,Drinker,Non_Smoker,0,Disciplinary_Failure,32,"294,217",0
+279,"Diseases of the musculoskeletal system and connective tissue",September,31,Obese,Fall,1,9,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"294,217",8
+280,"Diseases of the circulatory system",September,23,"Normal Weight",Fall,1,9,4,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"294,217",32
+281,"medical consultation ",September,31,Obese,Fall,1,9,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"294,217",1
+282,"dental consultation ",September,25,Overweight,Fall,1,9,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"294,217",4
+283,"dental consultation ",September,23,"Normal Weight",Fall,1,9,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"294,217",4
+284,"unjustified absence ",September,38,Obese,Fall,4,9,4,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"294,217",8
+285,"dental consultation ",September,31,Obese,Fall,4,9,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"294,217",1
+286,Unkown,September,38,Obese,Fall,4,9,5,235,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,43,"294,217",0
+287,"dental consultation ",September,25,Overweight,Fall,4,9,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"294,217",3
+288,"Diseases of the eye and adnexa",September,25,Overweight,Fall,4,9,2,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"294,217",40
+289,"Diseases of the musculoskeletal system and connective tissue",September,31,Obese,Fall,4,9,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"294,217",8
+290,"blood donation",October,30,Obese,Fall,4,10,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,017",8
+291,"unjustified absence ",October,29,Overweight,Fall,4,10,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"265,017",4
+292,"unjustified absence ",October,30,Obese,Fall,4,10,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,017",8
+293,"patient follow-up ",October,30,Obese,Fall,4,10,6,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,017",8
+294,Unkown,October,31,Obese,Fall,4,10,6,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"265,017",0
+295,Unkown,October,32,Obese,Fall,4,10,6,248,1,2,Non_Drinker,Non_Smoker,1,Disciplinary_Failure,47,"265,017",0
+296,"Certain infectious and parasitic diseases",October,19,"Normal Weight",Fall,4,10,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,017",8
+297,"Diseases of the eye and adnexa",October,28,Overweight,Fall,4,10,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"265,017",3
+298,"patient follow-up ",October,25,Overweight,Fall,4,10,2,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"265,017",8
+299,"dental consultation ",October,31,Obese,Fall,4,10,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"265,017",1
+300,"Certain infectious and parasitic diseases",October,19,"Normal Weight",Fall,4,10,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,017",64
+301,Unkown,October,38,Obese,Fall,4,10,4,235,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,43,"265,017",0
+302,"Injury, poisoning and certain other consequences of external causes",October,30,Obese,Fall,4,10,5,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"265,017",16
+303,"dental consultation ",October,23,"Normal Weight",Fall,4,10,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"265,017",3
+304,Unkown,October,38,Obese,Fall,4,10,6,235,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,43,"265,017",0
+305,"medical consultation ",October,38,Obese,Fall,4,10,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"265,017",2
+306,"medical consultation ",October,38,Obese,Fall,4,10,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"265,017",2
+307,"dental consultation ",October,31,Obese,Fall,4,10,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"265,017",1
+308,"dental consultation ",October,25,Overweight,Fall,4,10,3,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"265,017",4
+309,"medical consultation ",October,19,"Normal Weight",Fall,4,10,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,017",16
+310,"dental consultation ",October,31,Obese,Fall,4,10,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"265,017",1
+311,"Diseases of the respiratory system",October,27,Overweight,Fall,4,10,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"265,017",8
+312,Unkown,October,23,"Normal Weight",Fall,4,10,3,260,1,4,Drinker,Non_Smoker,0,Disciplinary_Failure,36,"265,017",0
+313,Unkown,October,25,Overweight,Fall,4,10,3,291,1,1,Drinker,Non_Smoker,1,Disciplinary_Failure,40,"265,017",0
+314,Unkown,October,22,"Normal Weight",Fall,4,10,3,157,1,0,Drinker,Smoker,0,Disciplinary_Failure,29,"265,017",0
+315,"Certain infectious and parasitic diseases",October,19,"Normal Weight",Fall,4,10,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,017",5
+316,"Diseases of the eye and adnexa",October,19,"Normal Weight",Fall,4,10,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"265,017",5
+317,"medical consultation ",October,31,Obese,Fall,4,10,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"265,017",1
+318,"Diseases of the digestive system",November,28,Overweight,Fall,4,11,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"284,031",8
+319,"medical consultation ",November,32,Obese,Fall,4,11,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"284,031",2
+320,"Diseases of the nervous system",November,31,Obese,Fall,4,11,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"284,031",8
+321,"dental consultation ",November,23,"Normal Weight",Fall,4,11,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"284,031",3
+322,"medical consultation ",November,25,Overweight,Fall,4,11,2,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"284,031",1
+323,"Certain infectious and parasitic diseases",November,21,"Normal Weight",Fall,4,11,2,378,1,2,Non_Drinker,Smoker,4,No_Disciplinary_Failure,36,"284,031",8
+324,"Diseases of the digestive system",November,25,Overweight,Fall,4,11,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"284,031",120
+325,"unjustified absence ",November,38,Obese,Fall,4,11,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"284,031",8
+326,Unkown,November,25,Overweight,Fall,4,11,3,330,2,0,Non_Drinker,Non_Smoker,0,Disciplinary_Failure,28,"284,031",0
+327,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",November,29,Overweight,Fall,4,11,4,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"284,031",1
+328,"Diseases of the digestive system",November,28,Overweight,Fall,4,11,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"284,031",3
+329,"laboratory examination ",November,29,Overweight,Fall,4,11,5,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"284,031",2
+330,"dental consultation ",November,31,Obese,Fall,4,11,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"284,031",3
+331,"Diseases of the musculoskeletal system and connective tissue",November,23,"Normal Weight",Fall,4,11,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"284,031",8
+332,"Diseases of the skin and subcutaneous tissue",November,25,Overweight,Fall,4,11,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"284,031",4
+333,"Diseases of the musculoskeletal system and connective tissue",November,23,"Normal Weight",Fall,4,11,2,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"284,031",8
+334,"dental consultation ",November,31,Obese,Fall,4,11,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"284,031",1
+335,"Diseases of the respiratory system",November,23,"Normal Weight",Fall,4,11,4,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"284,031",8
+336,"Pregnancy, childbirth and the puerperium",November,23,"Normal Weight",Fall,4,11,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"284,031",8
+337,Unkown,November,21,"Normal Weight",Fall,4,11,6,378,1,2,Non_Drinker,Smoker,4,Disciplinary_Failure,36,"284,031",0
+338,Unkown,November,24,"Normal Weight",Fall,4,11,3,279,1,2,Drinker,Smoker,0,Disciplinary_Failure,39,"284,031",0
+339,"medical consultation ",November,31,Obese,Fall,4,11,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"284,031",1
+340,"Diseases of the skin and subcutaneous tissue",December,24,"Normal Weight",Winter,4,12,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"236,629",3
+341,"dental consultation ",December,31,Obese,Winter,4,12,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",2
+342,"dental consultation ",December,31,Obese,Winter,4,12,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",1
+343,"medical consultation ",December,29,Overweight,Winter,4,12,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"236,629",3
+344,"dental consultation ",December,31,Obese,Winter,4,12,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"236,629",1
+345,"dental consultation ",December,23,"Normal Weight",Winter,4,12,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"236,629",4
+346,"Endocrine, nutritional and metabolic diseases",December,23,"Normal Weight",Winter,4,12,5,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"236,629",8
+347,"dental consultation ",December,31,Obese,Winter,4,12,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",1
+348,"dental consultation ",December,31,Obese,Winter,4,12,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",1
+349,"medical consultation ",December,19,"Normal Weight",Winter,4,12,3,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"236,629",1
+350,"laboratory examination ",December,28,Overweight,Winter,4,12,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"236,629",8
+351,"laboratory examination ",December,29,Overweight,Winter,4,12,5,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"236,629",2
+352,"dental consultation ",December,31,Obese,Winter,4,12,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",1
+353,"Diseases of the musculoskeletal system and connective tissue",December,38,Obese,Winter,2,12,3,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"236,629",8
+354,"Diseases of the genitourinary system",December,29,Overweight,Winter,2,12,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"236,629",4
+355,"unjustified absence ",December,23,"Normal Weight",Winter,2,12,4,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"236,629",8
+356,"dental consultation ",December,22,"Normal Weight",Winter,2,12,2,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"236,629",2
+357,"dental consultation ",December,31,Obese,Winter,2,12,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"236,629",3
+358,"Injury, poisoning and certain other consequences of external causes",December,30,Obese,Winter,2,12,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"236,629",8
+359,"medical consultation ",January,24,"Normal Weight",Winter,2,1,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"330,061",5
+360,"Injury, poisoning and certain other consequences of external causes",January,28,Overweight,Winter,2,1,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"330,061",32
+361,"medical consultation ",January,25,Overweight,Winter,2,1,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"330,061",2
+362,"Diseases of the musculoskeletal system and connective tissue",January,29,Overweight,Winter,2,1,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"330,061",1
+363,"medical consultation ",January,25,Overweight,Winter,2,1,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"330,061",4
+364,"unjustified absence ",January,30,Obese,Winter,2,1,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"330,061",8
+365,"Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",January,25,Overweight,Winter,2,1,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"330,061",8
+366,"unjustified absence ",January,38,Obese,Winter,2,1,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"330,061",8
+367,"unjustified absence ",January,31,Obese,Winter,2,1,2,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"330,061",4
+368,"dental consultation ",January,31,Obese,Winter,2,1,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"330,061",1
+369,"dental consultation ",January,31,Obese,Winter,2,1,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"330,061",1
+370,"dental consultation ",February,28,Overweight,Winter,2,2,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"251,818",2
+371,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+372,"Diseases of the eye and adnexa",February,24,"Normal Weight",Winter,2,2,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"251,818",1
+373,"patient follow-up ",February,30,Obese,Winter,2,2,6,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"251,818",3
+374,"dental consultation ",February,23,"Normal Weight",Winter,2,2,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"251,818",3
+375,"medical consultation ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+376,"physiotherapy ",February,31,Obese,Winter,2,2,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",2
+377,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+378,"Diseases of the respiratory system",February,31,Obese,Winter,2,2,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",8
+379,"unjustified absence ",February,23,"Normal Weight",Winter,2,2,5,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"251,818",8
+380,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+381,"patient follow-up ",February,25,Overweight,Winter,2,2,2,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"251,818",8
+382,"physiotherapy ",February,31,Obese,Winter,2,2,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+383,"medical consultation ",February,23,"Normal Weight",Winter,2,2,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"251,818",2
+384,"medical consultation ",February,25,Overweight,Winter,2,2,3,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"251,818",2
+385,"Diseases of the digestive system",February,22,"Normal Weight",Winter,2,2,4,157,1,0,Drinker,Smoker,0,No_Disciplinary_Failure,29,"251,818",16
+386,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+387,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+388,"Diseases of the respiratory system",February,23,"Normal Weight",Winter,2,2,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"251,818",24
+389,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+390,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"251,818",3
+391,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",March,28,Overweight,Spring,2,3,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"244,387",8
+392,"Injury, poisoning and certain other consequences of external causes",March,23,"Normal Weight",Spring,2,3,4,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"244,387",16
+393,"dental consultation ",March,23,"Normal Weight",Spring,2,3,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"244,387",2
+394,"dental consultation ",March,23,"Normal Weight",Spring,2,3,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"244,387",4
+395,"dental consultation ",March,31,Obese,Spring,2,3,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"244,387",2
+396,"patient follow-up ",March,29,Overweight,Spring,2,3,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"244,387",8
+397,"patient follow-up ",March,22,"Normal Weight",Spring,2,3,3,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"244,387",8
+398,"patient follow-up ",March,21,"Normal Weight",Spring,2,3,3,378,1,2,Non_Drinker,Smoker,4,No_Disciplinary_Failure,36,"244,387",8
+399,"dental consultation ",March,31,Obese,Spring,2,3,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"244,387",16
+400,"patient follow-up ",March,27,Overweight,Spring,2,3,4,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"244,387",8
+401,Unkown,March,25,Overweight,Spring,2,3,4,369,1,3,Drinker,Non_Smoker,0,Disciplinary_Failure,31,"244,387",0
+402,"Factors influencing health status and contact with health services.",March,29,Overweight,Spring,2,3,5,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"244,387",8
+403,"medical consultation ",March,31,Obese,Spring,3,3,6,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"244,387",2
+404,"Diseases of the genitourinary system",March,31,Obese,Spring,3,3,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"244,387",3
+405,"Diseases of the musculoskeletal system and connective tissue",March,31,Obese,Spring,3,3,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"244,387",8
+406,Unkown,March,29,Overweight,Spring,3,3,5,235,3,1,Non_Drinker,Non_Smoker,1,Disciplinary_Failure,37,"244,387",0
+407,Unkown,March,23,"Normal Weight",Spring,3,3,5,246,1,0,Drinker,Non_Smoker,0,Disciplinary_Failure,41,"244,387",0
+408,Unkown,March,31,Obese,Spring,3,3,5,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"244,387",0
+409,"dental consultation ",March,31,Obese,Spring,3,3,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"244,387",8
+410,"patient follow-up ",March,30,Obese,Spring,3,3,6,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"244,387",8
+411,"Injury, poisoning and certain other consequences of external causes",March,23,"Normal Weight",Spring,3,3,2,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"244,387",8
+412,"dental consultation ",March,23,"Normal Weight",Spring,3,3,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"244,387",2
+413,"dental consultation ",April,31,Obese,Spring,3,4,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,409",4
+414,"dental consultation ",April,23,"Normal Weight",Spring,3,4,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,409",3
+415,"unjustified absence ",April,25,Overweight,Spring,3,4,6,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"239,409",4
+416,"patient follow-up ",April,25,Overweight,Spring,3,4,2,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"239,409",4
+417,"unjustified absence ",April,32,Obese,Spring,3,4,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"239,409",4
+418,"medical consultation ",April,25,Overweight,Spring,3,4,4,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"239,409",8
+419,"dental consultation ",April,31,Obese,Spring,3,4,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,409",8
+420,"medical consultation ",April,31,Obese,Spring,3,4,2,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"239,409",1
+421,"Diseases of the musculoskeletal system and connective tissue",April,31,Obese,Spring,3,4,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"239,409",120
+422,"dental consultation ",April,25,Overweight,Spring,3,4,6,300,1,2,Drinker,Smoker,1,No_Disciplinary_Failure,43,"239,409",8
+423,"dental consultation ",April,23,"Normal Weight",Spring,3,4,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"239,409",4
+424,"dental consultation ",April,31,Obese,Spring,3,4,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"239,409",4
+425,"Diseases of the digestive system",April,28,Overweight,Spring,3,4,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"239,409",2
+426,"Diseases of the musculoskeletal system and connective tissue",May,38,Obese,Spring,3,5,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"246,074",16
+427,"medical consultation ",May,32,Obese,Spring,3,5,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"246,074",2
+428,"Diseases of the respiratory system",May,25,Overweight,Spring,3,5,2,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"246,074",8
+429,"medical consultation ",May,19,"Normal Weight",Spring,3,5,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,074",3
+430,"dental consultation ",May,31,Obese,Spring,3,5,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"246,074",4
+431,"medical consultation ",May,27,Overweight,Spring,3,5,5,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"246,074",1
+432,"dental consultation ",May,23,"Normal Weight",Spring,3,5,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"246,074",3
+433,"Diseases of the digestive system",May,22,"Normal Weight",Spring,3,5,2,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"246,074",2
+434,"Diseases of the ear and mastoid process",May,22,"Normal Weight",Spring,3,5,2,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"246,074",3
+435,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",May,22,"Normal Weight",Spring,3,5,4,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"246,074",8
+436,"laboratory examination ",May,24,"Normal Weight",Spring,3,5,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"246,074",3
+437,"Diseases of the musculoskeletal system and connective tissue",May,25,Overweight,Spring,3,5,6,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"246,074",8
+438,"laboratory examination ",May,19,"Normal Weight",Spring,3,5,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,074",2
+439,"dental consultation ",May,28,Overweight,Spring,3,5,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"246,074",1
+440,"Certain infectious and parasitic diseases",May,29,Overweight,Spring,3,5,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"246,074",8
+441,"medical consultation ",May,19,"Normal Weight",Spring,3,5,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,074",3
+442,"medical consultation ",June,28,Overweight,Summer,3,6,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"253,957",3
+443,"dental consultation ",June,31,Obese,Summer,3,6,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,957",3
+444,"dental consultation ",June,28,Overweight,Summer,3,6,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"253,957",2
+445,"medical consultation ",June,24,"Normal Weight",Summer,3,6,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,957",4
+446,"dental consultation ",June,23,"Normal Weight",Summer,3,6,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"253,957",4
+447,Unkown,June,31,Obese,Summer,3,6,6,179,1,0,Drinker,Non_Smoker,0,Disciplinary_Failure,38,"253,957",0
+448,"Diseases of the musculoskeletal system and connective tissue",June,25,Overweight,Summer,3,6,2,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"253,957",40
+449,"dental consultation ",June,31,Obese,Summer,3,6,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,957",24
+450,"dental consultation ",June,23,"Normal Weight",Summer,3,6,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"253,957",3
+451,"dental consultation ",June,31,Obese,Summer,3,6,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,957",4
+452,"unjustified absence ",June,38,Obese,Summer,3,6,3,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"253,957",8
+453,"dental consultation ",June,31,Obese,Summer,1,6,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,957",2
+454,"medical consultation ",June,24,"Normal Weight",Summer,1,6,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"253,957",2
+455,"medical consultation ",June,31,Obese,Summer,1,6,4,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"253,957",2
+456,"Mental and behavioural disorders",June,31,Obese,Summer,1,6,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"253,957",8
+457,"Factors influencing health status and contact with health services.",June,19,"Normal Weight",Summer,1,6,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"253,957",2
+458,"dental consultation ",June,23,"Normal Weight",Summer,1,6,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"253,957",2
+459,"Diseases of the digestive system",June,25,Overweight,Summer,1,6,3,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"253,957",1
+460,"Diseases of the musculoskeletal system and connective tissue",June,29,Overweight,Summer,1,6,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"253,957",8
+461,"medical consultation ",July,19,"Normal Weight",Summer,1,7,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"230,290",2
+462,"laboratory examination ",July,24,"Normal Weight",Summer,1,7,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"230,290",4
+463,"Diseases of the musculoskeletal system and connective tissue",July,23,"Normal Weight",Summer,1,7,6,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"230,290",8
+464,"Diseases of the eye and adnexa",July,25,Overweight,Summer,1,7,2,268,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,33,"230,290",8
+465,"laboratory examination ",July,25,Overweight,Summer,1,7,6,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"230,290",8
+466,"unjustified absence ",July,28,Overweight,Summer,1,7,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"230,290",8
+467,"unjustified absence ",July,23,"Normal Weight",Summer,1,7,2,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"230,290",4
+468,"dental consultation ",July,28,Overweight,Summer,1,7,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"230,290",8
+469,"Pregnancy, childbirth and the puerperium",July,25,Overweight,Summer,1,7,2,300,1,2,Drinker,Smoker,1,No_Disciplinary_Failure,43,"230,290",8
+470,"medical consultation ",July,33,Obese,Summer,1,7,2,235,1,1,Non_Drinker,Smoker,5,No_Disciplinary_Failure,48,"230,290",1
+471,"dental consultation ",July,23,"Normal Weight",Summer,1,7,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"230,290",2
+472,"Diseases of the circulatory system",July,24,"Normal Weight",Summer,1,7,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"230,290",112
+473,"dental consultation ",July,31,Obese,Summer,1,7,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"230,290",1
+474,"medical consultation ",July,31,Obese,Summer,1,7,6,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"230,290",1
+475,"patient follow-up ",July,27,Overweight,Summer,1,7,6,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"230,290",8
+476,"patient follow-up ",July,30,Obese,Summer,1,7,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"230,290",8
+477,"unjustified absence ",July,38,Obese,Summer,1,7,2,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"230,290",8
+478,"dental consultation ",July,23,"Normal Weight",Summer,1,7,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"230,290",2
+479,"dental consultation ",July,25,Overweight,Summer,1,7,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"230,290",1
+480,"medical consultation ",July,24,"Normal Weight",Summer,1,7,5,279,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,39,"230,290",2
+481,"laboratory examination ",August,31,Obese,Summer,1,8,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"249,797",4
+482,"laboratory examination ",August,22,"Normal Weight",Summer,1,8,2,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"249,797",1
+483,"dental consultation ",August,23,"Normal Weight",Summer,1,8,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"249,797",4
+484,"dental consultation ",August,28,Overweight,Summer,1,8,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"249,797",4
+485,"unjustified absence ",August,30,Obese,Summer,1,8,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"249,797",8
+486,"unjustified absence ",August,38,Obese,Summer,1,8,3,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"249,797",8
+487,"dental consultation ",August,25,Overweight,Summer,1,8,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"249,797",4
+488,"laboratory examination ",August,31,Obese,Summer,1,8,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"249,797",4
+489,"laboratory examination ",August,22,"Normal Weight",Summer,1,8,3,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"249,797",8
+490,"medical consultation ",August,25,Overweight,Summer,1,8,5,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"249,797",16
+491,"medical consultation ",August,29,Overweight,Summer,1,8,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"249,797",4
+492,"dental consultation ",August,23,"Normal Weight",Summer,1,8,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"249,797",1
+493,"dental consultation ",August,28,Overweight,Summer,1,8,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"249,797",5
+494,"dental consultation ",August,25,Overweight,Summer,1,8,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"249,797",2
+495,"dental consultation ",August,23,"Normal Weight",Summer,1,8,2,260,1,4,Drinker,Non_Smoker,0,No_Disciplinary_Failure,36,"249,797",3
+496,"dental consultation ",September,23,"Normal Weight",Fall,1,9,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"261,756",1
+497,"dental consultation ",September,23,"Normal Weight",Fall,1,9,3,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"261,756",1
+498,"dental consultation ",September,28,Overweight,Fall,1,9,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"261,756",3
+499,"medical consultation ",September,25,Overweight,Fall,1,9,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"261,756",2
+500,"dental consultation ",September,25,Overweight,Fall,1,9,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"261,756",2
+501,"medical consultation ",September,19,"Normal Weight",Fall,1,9,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"261,756",8
+502,"medical consultation ",September,32,Obese,Fall,1,9,6,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"261,756",1
+503,"medical consultation ",September,31,Obese,Fall,1,9,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"261,756",4
+504,"medical consultation ",September,24,"Normal Weight",Fall,1,9,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"261,756",1
+505,"medical consultation ",September,19,"Normal Weight",Fall,1,9,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"261,756",2
+506,"medical consultation ",September,25,Overweight,Fall,4,9,3,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"261,756",8
+507,"patient follow-up ",September,27,Overweight,Fall,4,9,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"261,756",8
+508,"Endocrine, nutritional and metabolic diseases",October,36,Obese,Fall,4,10,5,289,1,0,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,49,"284,853",1
+509,"Diseases of the digestive system",October,25,Overweight,Fall,4,10,5,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"284,853",3
+510,"unjustified absence ",October,23,"Normal Weight",Fall,4,10,6,246,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,41,"284,853",8
+511,"Diseases of the genitourinary system",October,36,Obese,Fall,4,10,4,289,1,0,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,49,"284,853",3
+512,"dental consultation ",October,25,Overweight,Fall,4,10,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"284,853",2
+513,"medical consultation ",October,28,Overweight,Fall,4,10,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"284,853",2
+514,"medical consultation ",October,36,Obese,Fall,4,10,5,289,1,0,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,49,"284,853",2
+515,"medical consultation ",October,25,Overweight,Fall,4,10,6,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"284,853",1
+516,"medical consultation ",October,24,"Normal Weight",Fall,4,10,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"284,853",2
+517,"medical consultation ",October,25,Overweight,Fall,4,10,3,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"284,853",8
+518,"medical consultation ",October,25,Overweight,Fall,4,10,3,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"284,853",3
+519,"medical consultation ",October,24,"Normal Weight",Fall,4,10,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"284,853",4
+520,"unjustified absence ",October,25,Overweight,Fall,4,10,3,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"284,853",8
+521,"dental consultation ",October,31,Obese,Fall,4,10,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"284,853",3
+522,"Certain infectious and parasitic diseases",October,22,"Normal Weight",Fall,4,10,4,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"284,853",1
+523,"medical consultation ",October,25,Overweight,Fall,4,10,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"284,853",1
+524,"Diseases of the respiratory system",October,25,Overweight,Fall,4,10,5,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"284,853",8
+525,"Diseases of the musculoskeletal system and connective tissue",October,24,"Normal Weight",Fall,4,10,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"284,853",1
+526,"Diseases of the respiratory system",October,25,Overweight,Fall,4,10,6,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"284,853",8
+527,"Diseases of the respiratory system",October,24,"Normal Weight",Fall,4,10,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"284,853",3
+528,"medical consultation ",October,25,Overweight,Fall,4,10,2,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"284,853",8
+529,"Diseases of the nervous system",October,25,Overweight,Fall,4,10,2,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"284,853",8
+530,"Diseases of the respiratory system",October,32,Obese,Fall,4,10,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"284,853",8
+531,Unkown,October,24,"Normal Weight",Fall,4,10,2,225,1,1,Non_Drinker,Non_Smoker,2,Disciplinary_Failure,28,"284,853",0
+532,"Diseases of the musculoskeletal system and connective tissue",October,24,"Normal Weight",Fall,4,10,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"284,853",3
+533,"Factors influencing health status and contact with health services.",November,31,Obese,Fall,4,11,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"268,519",1
+534,"dental consultation ",November,28,Overweight,Fall,4,11,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"268,519",3
+535,Neoplasms,November,25,Overweight,Fall,4,11,4,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"268,519",24
+536,"dental consultation ",November,31,Obese,Fall,4,11,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"268,519",1
+537,"Diseases of the circulatory system",November,28,Overweight,Fall,4,11,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"268,519",8
+538,"blood donation",November,30,Obese,Fall,4,11,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"268,519",8
+539,"Certain infectious and parasitic diseases",November,25,Overweight,Fall,4,11,6,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"268,519",8
+540,"medical consultation ",November,24,"Normal Weight",Fall,4,11,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"268,519",4
+541,"patient follow-up ",November,27,Overweight,Fall,4,11,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"268,519",8
+542,"dental consultation ",November,25,Overweight,Fall,4,11,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"268,519",2
+543,"Diseases of the musculoskeletal system and connective tissue",November,28,Overweight,Fall,4,11,5,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"268,519",2
+544,"Diseases of the genitourinary system",November,24,"Normal Weight",Fall,4,11,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"268,519",3
+545,"dental consultation ",November,31,Obese,Fall,4,11,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"268,519",1
+546,"medical consultation ",November,28,Overweight,Fall,4,11,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"268,519",8
+547,"Diseases of the ear and mastoid process",November,28,Overweight,Fall,4,11,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"268,519",8
+548,"medical consultation ",November,24,"Normal Weight",Fall,4,11,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"268,519",2
+549,Unkown,November,25,Overweight,Fall,4,11,3,291,1,1,Drinker,Non_Smoker,1,Disciplinary_Failure,40,"268,519",0
+550,Unkown,November,30,Obese,Fall,4,11,4,289,1,2,Drinker,Non_Smoker,1,Disciplinary_Failure,33,"268,519",0
+551,"Diseases of the genitourinary system",November,32,Obese,Fall,4,11,5,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"268,519",4
+552,Unkown,November,38,Obese,Fall,4,11,5,235,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,43,"268,519",0
+553,"medical consultation ",November,24,"Normal Weight",Fall,4,11,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"268,519",2
+554,"unjustified absence ",November,25,Overweight,Fall,4,11,6,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"268,519",8
+555,"dental consultation ",November,27,Overweight,Fall,4,11,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"268,519",2
+556,"Diseases of the musculoskeletal system and connective tissue",December,31,Obese,Winter,4,12,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"280,549",32
+557,"dental consultation ",December,25,Overweight,Winter,4,12,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"280,549",1
+558,"medical consultation ",December,24,"Normal Weight",Winter,4,12,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",3
+559,"Diseases of the musculoskeletal system and connective tissue",December,19,"Normal Weight",Winter,4,12,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"280,549",1
+560,"medical consultation ",December,24,"Normal Weight",Winter,4,12,6,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",3
+561,"medical consultation ",December,24,"Normal Weight",Winter,4,12,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",3
+562,"Diseases of the genitourinary system",December,27,Overweight,Winter,4,12,5,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"280,549",4
+563,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",December,22,"Normal Weight",Winter,4,12,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"280,549",2
+564,"unjustified absence ",December,38,Obese,Winter,4,12,6,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"280,549",8
+565,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",December,21,"Normal Weight",Winter,4,12,2,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"280,549",8
+566,"Diseases of the musculoskeletal system and connective tissue",December,19,"Normal Weight",Winter,4,12,3,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"280,549",16
+567,"medical consultation ",December,24,"Normal Weight",Winter,4,12,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",2
+568,"medical consultation ",December,24,"Normal Weight",Winter,4,12,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",3
+569,"medical consultation ",December,24,"Normal Weight",Winter,4,12,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"280,549",2
+570,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",December,25,Overweight,Winter,2,12,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"280,549",80
+571,"Diseases of the skin and subcutaneous tissue",January,19,"Normal Weight",Winter,2,1,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"313,532",24
+572,"Diseases of the skin and subcutaneous tissue",January,19,"Normal Weight",Winter,2,1,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"313,532",16
+573,"laboratory examination ",January,22,"Normal Weight",Winter,2,1,5,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"313,532",2
+574,"laboratory examination ",January,22,"Normal Weight",Winter,2,1,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"313,532",2
+575,"Diseases of the musculoskeletal system and connective tissue",January,19,"Normal Weight",Winter,2,1,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"313,532",3
+576,"laboratory examination ",January,22,"Normal Weight",Winter,2,1,4,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"313,532",2
+577,"Diseases of the respiratory system",January,36,Obese,Winter,2,1,5,289,1,0,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,49,"313,532",8
+578,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",January,22,"Normal Weight",Winter,2,1,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"313,532",3
+579,"physiotherapy ",January,19,"Normal Weight",Winter,2,1,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"313,532",2
+580,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",January,25,Overweight,Winter,2,1,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"313,532",8
+581,"physiotherapy ",January,19,"Normal Weight",Winter,2,1,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"313,532",2
+582,"physiotherapy ",January,31,Obese,Winter,2,1,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"313,532",3
+583,"Diseases of the musculoskeletal system and connective tissue",January,30,Obese,Winter,2,1,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"313,532",8
+584,"physiotherapy ",January,31,Obese,Winter,2,1,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"313,532",3
+585,"physiotherapy ",January,31,Obese,Winter,2,1,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"313,532",2
+586,"Diseases of the musculoskeletal system and connective tissue",February,31,Obese,Winter,2,2,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",8
+587,"medical consultation ",February,24,"Normal Weight",Winter,2,2,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",3
+588,"Certain infectious and parasitic diseases",February,32,Obese,Winter,2,2,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"264,249",8
+589,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+590,"dental consultation ",February,24,"Normal Weight",Winter,2,2,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",3
+591,"physiotherapy ",February,31,Obese,Winter,2,2,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+592,"physiotherapy ",February,19,"Normal Weight",Winter,2,2,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"264,249",2
+593,"dental consultation ",February,28,Overweight,Winter,2,2,6,225,4,2,Drinker,Non_Smoker,2,No_Disciplinary_Failure,41,"264,249",2
+594,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+595,"Injury, poisoning and certain other consequences of external causes",February,21,"Normal Weight",Winter,2,2,2,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"264,249",2
+596,"physiotherapy ",February,31,Obese,Winter,2,2,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+597,"Diseases of the eye and adnexa",February,24,"Normal Weight",Winter,2,2,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",8
+598,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",3
+599,"physiotherapy ",February,31,Obese,Winter,2,2,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",3
+600,"laboratory examination ",February,24,"Normal Weight",Winter,2,2,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",3
+601,"Diseases of the musculoskeletal system and connective tissue",February,19,"Normal Weight",Winter,2,2,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"264,249",2
+602,"medical consultation ",February,22,"Normal Weight",Winter,2,2,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"264,249",2
+603,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",3
+604,"Diseases of the skin and subcutaneous tissue",February,21,"Normal Weight",Winter,2,2,4,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"264,249",3
+605,"physiotherapy ",February,19,"Normal Weight",Winter,2,2,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"264,249",2
+606,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+607,"Diseases of the musculoskeletal system and connective tissue",February,31,Obese,Winter,2,2,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",8
+608,"physiotherapy ",February,31,Obese,Winter,2,2,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+609,"laboratory examination ",February,25,Overweight,Winter,2,2,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"264,249",5
+610,"laboratory examination ",February,25,Overweight,Winter,2,2,2,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"264,249",3
+611,"physiotherapy ",February,31,Obese,Winter,2,2,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+612,"Diseases of the eye and adnexa",February,24,"Normal Weight",Winter,2,2,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",2
+613,"physiotherapy ",February,31,Obese,Winter,2,2,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+614,"medical consultation ",February,32,Obese,Winter,2,2,3,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"264,249",2
+615,"laboratory examination ",February,24,"Normal Weight",Winter,2,2,3,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,249",2
+616,"physiotherapy ",February,31,Obese,Winter,2,2,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+617,"physiotherapy ",February,31,Obese,Winter,2,2,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"264,249",2
+618,"laboratory examination ",February,25,Overweight,Winter,2,2,6,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"264,249",2
+619,"physiotherapy ",March,31,Obese,Spring,2,3,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",2
+620,"medical consultation ",March,32,Obese,Spring,2,3,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"222,196",2
+621,"laboratory examination ",March,22,"Normal Weight",Spring,2,3,3,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"222,196",3
+622,"laboratory examination ",March,32,Obese,Spring,2,3,3,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"222,196",3
+623,"Diseases of the skin and subcutaneous tissue",March,22,"Normal Weight",Spring,2,3,3,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"222,196",112
+624,"physiotherapy ",March,31,Obese,Spring,2,3,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",2
+625,"physiotherapy ",March,24,"Normal Weight",Spring,2,3,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"222,196",2
+626,"physiotherapy ",March,31,Obese,Spring,2,3,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+627,"laboratory examination ",March,24,"Normal Weight",Spring,2,3,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"222,196",2
+628,"physiotherapy ",March,19,"Normal Weight",Spring,2,3,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"222,196",3
+629,"laboratory examination ",March,25,Overweight,Spring,2,3,2,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"222,196",3
+630,"Injury, poisoning and certain other consequences of external causes",March,27,Overweight,Spring,2,3,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"222,196",8
+631,"Diseases of the musculoskeletal system and connective tissue",March,31,Obese,Spring,2,3,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",8
+632,"physiotherapy ",March,31,Obese,Spring,2,3,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",2
+633,"physiotherapy ",March,31,Obese,Spring,2,3,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+634,"physiotherapy ",March,19,"Normal Weight",Spring,2,3,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"222,196",2
+635,"Diseases of the respiratory system",March,31,Obese,Spring,2,3,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",4
+636,"Diseases of the musculoskeletal system and connective tissue",March,32,Obese,Spring,2,3,2,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"222,196",2
+637,"physiotherapy ",March,31,Obese,Spring,2,3,2,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+638,"Diseases of the eye and adnexa",March,24,"Normal Weight",Spring,2,3,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"222,196",8
+639,"physiotherapy ",March,31,Obese,Spring,2,3,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",2
+640,"medical consultation ",March,30,Obese,Spring,2,3,4,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"222,196",8
+641,"laboratory examination ",March,22,"Normal Weight",Spring,2,3,4,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"222,196",2
+642,"physiotherapy ",March,31,Obese,Spring,2,3,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",2
+643,"medical consultation ",March,32,Obese,Spring,2,3,5,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"222,196",3
+644,"physiotherapy ",March,31,Obese,Spring,2,3,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+645,"medical consultation ",March,19,"Normal Weight",Spring,2,3,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"222,196",2
+646,"physiotherapy ",March,31,Obese,Spring,2,3,6,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+647,"physiotherapy ",March,31,Obese,Spring,3,3,3,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+648,"medical consultation ",March,25,Overweight,Spring,3,3,4,118,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,46,"222,196",8
+649,"Diseases of the musculoskeletal system and connective tissue",March,25,Overweight,Spring,3,3,4,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"222,196",24
+650,"physiotherapy ",March,31,Obese,Spring,3,3,4,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+651,"physiotherapy ",March,31,Obese,Spring,3,3,5,179,1,0,Drinker,Non_Smoker,0,No_Disciplinary_Failure,38,"222,196",3
+652,"Diseases of the musculoskeletal system and connective tissue",March,19,"Normal Weight",Spring,3,3,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"222,196",2
+653,"Injury, poisoning and certain other consequences of external causes",March,30,Obese,Spring,3,3,2,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"222,196",104
+654,"patient follow-up ",March,25,Overweight,Spring,3,3,4,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"222,196",8
+655,"Diseases of the musculoskeletal system and connective tissue",April,24,"Normal Weight",Spring,3,4,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"246,288",8
+656,"Diseases of the respiratory system",April,28,Overweight,Spring,3,4,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"246,288",8
+657,"Injury, poisoning and certain other consequences of external causes",April,27,Overweight,Spring,3,4,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"246,288",8
+658,"Injury, poisoning and certain other consequences of external causes",April,32,Obese,Spring,3,4,4,248,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,47,"246,288",8
+659,"Diseases of the musculoskeletal system and connective tissue",April,25,Overweight,Spring,3,4,5,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"246,288",8
+660,"physiotherapy ",April,19,"Normal Weight",Spring,3,4,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,288",2
+661,"Diseases of the eye and adnexa",April,25,Overweight,Spring,3,4,2,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"246,288",24
+662,"Certain conditions originating in the perinatal period",April,22,"Normal Weight",Spring,3,4,3,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"246,288",2
+663,"medical consultation ",April,31,Obese,Spring,3,4,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"246,288",3
+664,"medical consultation ",April,27,Overweight,Spring,3,4,3,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"246,288",2
+665,"Diseases of the respiratory system",April,28,Overweight,Spring,3,4,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"246,288",2
+666,"patient follow-up ",April,29,Overweight,Spring,3,4,6,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"246,288",8
+667,"physiotherapy ",April,19,"Normal Weight",Spring,3,4,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,288",2
+668,"Injury, poisoning and certain other consequences of external causes",April,24,"Normal Weight",Spring,3,4,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"246,288",8
+669,"Certain conditions originating in the perinatal period",April,25,Overweight,Spring,3,4,3,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"246,288",3
+670,"physiotherapy ",April,19,"Normal Weight",Spring,3,4,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,288",2
+671,"dental consultation ",April,25,Overweight,Spring,3,4,3,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"246,288",4
+672,"Injury, poisoning and certain other consequences of external causes",April,24,"Normal Weight",Spring,3,4,5,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"246,288",8
+673,"Diseases of the genitourinary system",April,31,Obese,Spring,3,4,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"246,288",2
+674,"physiotherapy ",April,19,"Normal Weight",Spring,3,4,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"246,288",2
+675,"patient follow-up ",May,29,Overweight,Spring,3,5,2,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"237,656",8
+676,"Injury, poisoning and certain other consequences of external causes",May,28,Overweight,Spring,3,5,4,225,4,2,Drinker,Non_Smoker,2,No_Disciplinary_Failure,41,"237,656",3
+677,"dental consultation ",May,25,Overweight,Spring,3,5,4,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"237,656",2
+678,"Diseases of the ear and mastoid process",May,28,Overweight,Spring,3,5,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"237,656",3
+679,"unjustified absence ",May,38,Obese,Spring,3,5,4,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"237,656",8
+680,"Diseases of the musculoskeletal system and connective tissue",May,19,"Normal Weight",Spring,3,5,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"237,656",1
+681,"dental consultation ",May,25,Overweight,Spring,3,5,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"237,656",2
+682,"Diseases of the genitourinary system",May,28,Overweight,Spring,3,5,5,225,4,2,Drinker,Non_Smoker,2,No_Disciplinary_Failure,41,"237,656",8
+683,"Injury, poisoning and certain other consequences of external causes",May,25,Overweight,Spring,3,5,6,300,1,2,Drinker,Smoker,1,No_Disciplinary_Failure,43,"237,656",64
+684,"patient follow-up ",May,28,Overweight,Spring,3,5,6,225,4,2,Drinker,Non_Smoker,2,No_Disciplinary_Failure,41,"237,656",8
+685,"physiotherapy ",May,19,"Normal Weight",Spring,3,5,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"237,656",2
+686,"medical consultation ",May,31,Obese,Spring,3,5,2,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"237,656",2
+687,"Mental and behavioural disorders",May,31,Obese,Spring,3,5,3,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"237,656",3
+688,"dental consultation ",May,28,Overweight,Spring,3,5,3,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"237,656",1
+689,Unkown,May,31,Obese,Spring,3,5,3,118,1,1,Drinker,Non_Smoker,0,Disciplinary_Failure,50,"237,656",0
+690,"physiotherapy ",May,19,"Normal Weight",Spring,3,5,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"237,656",2
+691,Unkown,May,21,"Normal Weight",Spring,3,5,4,378,1,2,Non_Drinker,Smoker,4,Disciplinary_Failure,36,"237,656",0
+692,"Certain conditions originating in the perinatal period",May,22,"Normal Weight",Spring,3,5,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"237,656",1
+693,"Diseases of the respiratory system",May,25,Overweight,Spring,3,5,2,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"237,656",48
+694,"Diseases of the respiratory system",May,25,Overweight,Spring,3,5,2,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"237,656",8
+695,"patient follow-up ",May,25,Overweight,Spring,3,5,4,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"237,656",8
+696,"Diseases of the respiratory system",May,22,"Normal Weight",Spring,3,5,4,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"237,656",8
+697,"Diseases of the nervous system",May,24,"Normal Weight",Spring,3,5,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"237,656",3
+698,"Diseases of the respiratory system",May,25,Overweight,Spring,3,5,5,330,2,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,28,"237,656",8
+699,"medical consultation ",May,25,Overweight,Spring,3,5,5,235,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,32,"237,656",2
+700,"dental consultation ",May,25,Overweight,Spring,3,5,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"237,656",2
+701,"physiotherapy ",May,19,"Normal Weight",Spring,3,5,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"237,656",2
+702,"Diseases of the eye and adnexa",May,27,Overweight,Spring,3,5,2,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"237,656",8
+703,"medical consultation ",May,25,Overweight,Spring,3,5,4,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"237,656",2
+704,"laboratory examination ",May,22,"Normal Weight",Spring,3,5,6,179,2,2,Non_Drinker,Smoker,0,No_Disciplinary_Failure,40,"237,656",8
+705,"Diseases of the respiratory system",May,25,Overweight,Spring,3,5,6,155,1,2,Drinker,Non_Smoker,0,No_Disciplinary_Failure,34,"237,656",8
+706,"Diseases of the digestive system",May,24,"Normal Weight",Spring,3,5,2,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"237,656",1
+707,"Diseases of the eye and adnexa",June,25,Overweight,Summer,3,6,4,118,1,2,Drinker,Smoker,0,No_Disciplinary_Failure,46,"275,089",8
+708,"physiotherapy ",June,19,"Normal Weight",Summer,3,6,4,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"275,089",3
+709,"unjustified absence ",June,28,Overweight,Summer,3,6,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,089",8
+710,"Diseases of the respiratory system",June,28,Overweight,Summer,3,6,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,089",8
+711,"patient follow-up ",June,21,"Normal Weight",Summer,3,6,5,378,1,2,Non_Drinker,Smoker,4,No_Disciplinary_Failure,36,"275,089",8
+712,"Injury, poisoning and certain other consequences of external causes",June,31,Obese,Summer,3,6,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"275,089",24
+713,"Injury, poisoning and certain other consequences of external causes",June,21,"Normal Weight",Summer,3,6,6,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"275,089",8
+714,"physiotherapy ",June,19,"Normal Weight",Summer,3,6,6,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"275,089",2
+715,Unkown,June,33,Obese,Summer,3,6,2,235,1,1,Non_Drinker,Smoker,5,Disciplinary_Failure,48,"275,089",0
+716,Unkown,June,25,Overweight,Summer,3,6,2,268,2,0,Non_Drinker,Non_Smoker,0,Disciplinary_Failure,33,"275,089",0
+717,"Injury, poisoning and certain other consequences of external causes",June,31,Obese,Summer,3,6,5,118,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,50,"275,089",3
+718,"Diseases of the musculoskeletal system and connective tissue",June,19,"Normal Weight",Summer,3,6,5,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"275,089",2
+719,"dental consultation ",June,25,Overweight,Summer,3,6,5,291,1,1,Drinker,Non_Smoker,1,No_Disciplinary_Failure,40,"275,089",2
+720,"Diseases of the musculoskeletal system and connective tissue",June,19,"Normal Weight",Summer,1,6,2,179,3,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,30,"275,089",3
+721,"laboratory examination ",June,28,Overweight,Summer,1,6,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,089",3
+722,"patient follow-up ",June,21,"Normal Weight",Summer,1,6,5,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"275,089",8
+723,"Diseases of the ear and mastoid process",June,28,Overweight,Summer,1,6,6,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,089",2
+724,"Diseases of the respiratory system",June,28,Overweight,Summer,1,6,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"275,089",3
+725,"patient follow-up ",June,21,"Normal Weight",Summer,1,6,4,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"275,089",3
+726,"unjustified absence ",July,38,Obese,Summer,1,7,4,235,1,1,Drinker,Non_Smoker,0,No_Disciplinary_Failure,43,"264,604",4
+727,"Injury, poisoning and certain other consequences of external causes",July,21,"Normal Weight",Summer,1,7,6,233,2,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,31,"264,604",2
+728,"Diseases of the nervous system",July,22,"Normal Weight",Summer,1,7,2,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"264,604",8
+729,"dental consultation ",July,28,Overweight,Summer,1,7,2,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"264,604",4
+730,"Diseases of the nervous system",July,22,"Normal Weight",Summer,1,7,3,228,1,2,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,58,"264,604",120
+731,"patient follow-up ",July,25,Overweight,Summer,1,7,3,189,1,2,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,33,"264,604",16
+732,"medical consultation ",July,28,Overweight,Summer,1,7,4,118,1,0,Non_Drinker,Non_Smoker,0,No_Disciplinary_Failure,37,"264,604",2
+733,"patient follow-up ",July,27,Overweight,Summer,1,7,4,361,1,1,Drinker,Non_Smoker,4,No_Disciplinary_Failure,28,"264,604",8
+734,"patient follow-up ",July,24,"Normal Weight",Summer,1,7,4,225,1,1,Non_Drinker,Non_Smoker,2,No_Disciplinary_Failure,28,"264,604",8
+735,"Diseases of the musculoskeletal system and connective tissue",July,25,Overweight,Summer,1,7,2,369,1,3,Drinker,Non_Smoker,0,No_Disciplinary_Failure,31,"264,604",80
+736,"Diseases of the genitourinary system",July,30,Obese,Summer,1,7,3,289,1,2,Drinker,Non_Smoker,1,No_Disciplinary_Failure,33,"264,604",8
+737,"Diseases of the digestive system",July,29,Overweight,Summer,1,7,3,235,3,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,37,"264,604",4
+738,Unkown,NULL,34,Obese,Unknown,1,0,3,118,1,1,Drinker,Non_Smoker,8,No_Disciplinary_Failure,40,"271,219",0
+739,Unkown,NULL,35,Obese,Unknown,2,0,4,231,1,2,Drinker,Non_Smoker,2,No_Disciplinary_Failure,39,"271,219",0
+740,Unkown,NULL,25,Overweight,Unknown,3,0,6,179,1,1,Non_Drinker,Non_Smoker,1,No_Disciplinary_Failure,53,"271,219",0
